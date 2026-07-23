@@ -48,36 +48,6 @@
 - Continuous Learning  
 
 ---
-🚧🛑🚧🚧🛑🚧🚧🛑🚧🚧🛑🚧🚧🛑🚧🚧🛑Work in Progress🚧🚧🛑🚧🚧🛑🚧🚧🛑🚧🚧🛑🚧🚧🛑🚧🚧🛑🚧🚧
-## 🏆 Competitive Programming Progress  
-
-### 📊 Problem Solving Summary  
-- *LeetCode: Solved **XXX+* problems, Contest Rating: *XXXX*  
-- *Codeforces: Solved **XXX+* problems, Max Rating: *XXXX*  
-- *CodeChef: Solved **XXX+* problems, Max Rating: *X★*  
-- *AtCoder: Solved **XXX+* problems, Max Rating: *XXXX*  
-- *CSES Problem Set: Completed **XXX+* problems  
-- *HackerRank: **X★* in Problem Solving, *XXX+* challenges solved  
-
----
-
-### 🔗 Profile Links  
-- [LeetCode](https://leetcode.com/your-username/)  
-- [Codeforces](https://codeforces.com/profile/your-username)  
-- [CodeChef](https://www.codechef.com/users/your-username)  
-- [AtCoder](https://atcoder.jp/users/your-username)  
-- [CSES](https://cses.fi/problemset/)  
-- [HackerRank](https://www.hackerrank.com/your-username)  
-
----
-
-### 📈 Dynamic Stats (Auto Updating)  
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/<your-leetcode-username>?theme=radical&font=Nunito&ext=heatmap)  
-
-![Codeforces Stats](https://raw.githubusercontent.com/abdoachhoubi/Codeforces-stats-card/main/output/light_card.svg)  
-
----
 
 ## 📊 GitHub Stats  
 
